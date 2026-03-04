@@ -1,5 +1,5 @@
 # QA-Manual-Web-Testing
-# 🛒 QA Manual Web Testing & Bug Tracking Portfolio
+# QA Manual Web Testing & Bug Tracking Portfolio
 
 Este repositorio contiene un proyecto práctico de ejecución de pruebas manuales y Bug Tracking en un entorno E-commerce simulado.
 
