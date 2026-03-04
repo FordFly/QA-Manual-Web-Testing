@@ -43,6 +43,8 @@ Durante la fase de pruebas exploratorias y ejecución de Test Cases con el usuar
 * **Resultado Actual:** El sistema ignora la acción. Los productos mantienen su orden predeterminado alfabético y el filtro visual no se aplica.
 
 
+
+
 # Proyecto 2: Form Validation & Business Logic Testing
 
 Este segundo módulo del portfolio se centra en la validación de formularios complejos, aplicando técnicas formales de diseño de pruebas de software (Caja Negra) para garantizar la integridad de los datos y la robustez del sistema.
