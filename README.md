@@ -42,8 +42,7 @@ Durante la fase de pruebas exploratorias y ejecución de Test Cases con el usuar
 * **Resultado Esperado:** La cuadrícula de productos debe actualizarse automáticamente y mostrar los artículos ordenados de menor a mayor precio.
 * **Resultado Actual:** El sistema ignora la acción. Los productos mantienen su orden predeterminado alfabético y el filtro visual no se aplica.
 
-
-
+---
 
 # Proyecto 2: Form Validation & Business Logic Testing
 
